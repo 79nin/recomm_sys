@@ -1,0 +1,38 @@
+# Core
+pandas
+numpy
+scipy
+scikit-learn
+
+# Recommender systems
+implicit
+lightfm
+
+# NLP / embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector search
+faiss-cpu
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# API (for later)
+fastapi
+uvicorn
+pydantic
+
+# Utilities
+python-dotenv
+pyyaml
+
+# Testing
+pytest
+
+# Jupyter
+jupyter
+ipykernel
